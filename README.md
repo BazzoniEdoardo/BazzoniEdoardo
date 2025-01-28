@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile  
 
-Hi there! I'm a **student developer** with a passion for programming, software security, and building innovative solutions. Here's what I do and what you can expect from my repositories.  
+Hi there! I'm a **student** and a **developer** with a passion for programming, software security, and building innovative solutions. Here's what I do and what you can expect from my repositories.  
 
 ---
 
@@ -21,8 +21,8 @@ Hi there! I'm a **student developer** with a passion for programming, software s
 ## 📂 Projects & Goals  
 
 ### Current Projects  
-- Building **Minecraft server plugins** designed for optimal performance and customization.  
-- Exploring **game cheat mechanics** to understand system weaknesses.  
+- Building **Minecraft server plugins** designed for optimal performance and customization. 
+- Exploring **game cheat mechanics** to understand system weaknesses.
 
 ### Future Goals  
 - Expanding knowledge in **software security** and contributing to open-source **cybersecurity tools**.  
@@ -44,9 +44,10 @@ Hi there! I'm a **student developer** with a passion for programming, software s
 
 ## 📬 Contact Me  
 
-- **GitHub**: [YourGitHubProfile](https://github.com/YourGitHubProfile)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- **GitHub**: [YourGitHubProfile](https://github.com/BazzoniEdoaddo)  
+- **Discord**:
+@Mesploit
 
 ---
 
-Thank you for visiting! I’m always excited to collaborate or learn something new. Let’s create something amazing!
+Thank you for visiting!
